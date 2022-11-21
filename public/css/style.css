@@ -7,7 +7,7 @@
     width: 100vw;
     /* background-color: red;
      */
-     background-image: url("/img.jpg");
+     background-image: url("../img.jpg");
      background-size: cover;
      background-position: center;
 }
